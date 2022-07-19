@@ -1,0 +1,57 @@
+replace meters in skills section with icons of programs ``
+
+Adjust opacity in background sections ``
+
+Get email to work**
+
+change console.log connect in banner and navbar to link to contact section ``
+
+change home to about ``
+
+make animations only visible once / adjust animations ``
+
+adjust copyright information / explaindextermcgee ``
+
+adjust comments in app.css ``
+
+replace icons in navbar ``
+
+adjust colors for black and yellow theme ``
+
+Replace dummy text ``
+
+Replace logo with button that goes to top ``
+change (button) location for media queries ``
+
+adjust projects images ``
+
+
+display alert on send in contact section ``
+
+change interaction with arrows on hover in project section ``
+
+rearrange Techstack and info(instructions) ``
+
+change 'a site of shapes' in projects(shapes and themes) ``
+adjust fonts in projects section ``
+
+Place icons of applications in Techstack under projects ``
+
+Add phone icon in navbar ``
+
+adjust media queries and styling for Techstack ``
+
+change colors/styles and media queries for scrollbar style ``
+
+add links to navbar icons ``
+
+find way to align bottom button(devtools) ``
+
+change scrollbar in contact section ``
+
+appreciate yellow accents ``
+import project6 (seo writeup)
+find better name for project6
+
+Change Icon and title ``
+delete unused files ``
