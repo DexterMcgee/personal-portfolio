@@ -46,7 +46,7 @@ export const Projects = () => {
     },
     {
       title: "Shapes and Themes",
-      description: "Custom shapes complete with theme selector and randomizer",
+      description: "Custom shapes with theme selector and randomizer",
       imgUrl: projImg3,
       link: "https://shapes-alpha.vercel.app/",
     },

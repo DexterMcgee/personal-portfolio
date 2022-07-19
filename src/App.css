@@ -548,6 +548,16 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.15s ease-in-out;
 }
 
+@media screen and (min-width: 992px) {
+  .proj-txtx form button {
+    transform: scale(2);
+    margin-top: 10%;
+  }
+  .proj-txtx form button:hover {
+    transform: scale(2.5);
+  }
+}
+
 .instructions {
   background: hsla(0, 0%, 20%, 100%);
   border-radius: 64px;

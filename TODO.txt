@@ -55,3 +55,5 @@ find better name for project6
 
 Change Icon and title ``
 delete unused files ``
+
+Change arrow size and location in favorites for desktop size ~~
