@@ -184,19 +184,20 @@ export const Projects = () => {
                         </p>
                       </div>
                       <div>
-                        <h2>Morphus Social:</h2>
+                        <h2>SEO Simplified:</h2>
                         <p>
-                          A concept for a social media site in which users can
-                          share and gather inspiration for creative work. The
-                          highlight of this is the ability to customize theme.{" "}
+                          A thorough, articulate, yet simple essay on how to
+                          properly implement{" "}
+                          <yellowtext>Search Engine Optimization </yellowtext>to
+                          better serve your site.{" "}
                           <yellowtext>
                             {" "}
-                            Click on the Theme button to customize any
-                            combination of font size, accent color, and
-                            background color.
+                            Click on any number to instantly scroll to its
+                            corresponding chapter.{" "}
                           </yellowtext>
                         </p>
                       </div>
+
                       <div>
                         <h2>Pizza Palace:</h2>
                         <p>
@@ -208,12 +209,17 @@ export const Projects = () => {
                         </p>
                       </div>
                       <div>
-                        <h2>SEO:</h2>
+                        <h2>Morphus Social:</h2>
                         <p>
-                          {" "}
-                          Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Reiciendis, Lorem ipsum dolor sit amet
-                          consectetur adipisicing elit.
+                          A concept for a social media site in which users can
+                          share and gather inspiration for creative work. The
+                          highlight of this is the ability to customize theme.{" "}
+                          <yellowtext>
+                            {" "}
+                            Click on the Theme button to customize any
+                            combination of font size, accent color, and
+                            background color.
+                          </yellowtext>
                         </p>
                       </div>
                     </div>
