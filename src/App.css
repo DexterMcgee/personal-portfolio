@@ -557,6 +557,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
     transform: scale(2.5);
   }
 }
+@media screen and (max-width: 576px) {
+  .proj-txtx form button {
+    transform: scale(1.7);
+    margin-top: 10%;
+  }
+  .proj-txtx form button:hover {
+    transform: scale(2.125);
+  }
+}
 
 .instructions {
   background: hsla(0, 0%, 20%, 100%);

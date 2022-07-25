@@ -5,7 +5,7 @@ import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
-// import projImg6 from "../assets/img/project-img6.png";
+import projImg6 from "../assets/img/project-img6.png";
 import "animate.css";
 
 import api from "../assets/img/stack/api.png";
@@ -51,11 +51,12 @@ export const Projects = () => {
       link: "https://shapes-alpha.vercel.app/",
     },
     {
-      title: "Morphus Social",
-      description: "Mock social media site with emphasis on customization",
+      title: "SEO Simplified",
+      description: "A thorough writeup of what exactly search optimization is",
       imgUrl: projImg4,
-      link: "https://morphus-social.vercel.app/",
+      link: "https://seo-simplified.vercel.app/",
     },
+
     {
       title: "Pizza Palace",
       description: "Simple sample pizza website",
@@ -63,10 +64,10 @@ export const Projects = () => {
       link: "https://pizza-palace-topaz.vercel.app/",
     },
     {
-      title: "SEO",
-      description: "A thorough writeup of what exactly site optimization is",
-      imgUrl: projImg5,
-      link: "https://pizza-palace-topaz.vercel.app/",
+      title: "Morphus Social",
+      description: "Mock social media site with emphasis on customization",
+      imgUrl: projImg6,
+      link: "https://morphus-social.vercel.app/",
     },
   ];
 
@@ -97,7 +98,10 @@ export const Projects = () => {
                   Hover for details and click the arrow below the description to
                   visit the site.{" "}
                 </yellowtext>
-                All projects are fully responsive. <br />
+                All projects are <yellowtext>
+                  fully responsive.{" "}
+                </yellowtext>{" "}
+                <br />
                 <smalltext> **Optimized for Chrome** </smalltext>
               </p>
               <Tab.Container id="projects-tabs" defaultActiveKey="first">
