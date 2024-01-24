@@ -71,12 +71,12 @@ export const Projects = () => {
     },
   ];
 
-  const handleScroll = (e) => {
-    if (e.target.classList.contains("on-scrollbar") === false) {
-      e.target.classList.add("on-scrollbar");
-    }
-  };
-  window.addEventListener("scroll", handleScroll, true);
+  // function handleScroll(e) {
+  //   if (e.target.classList.contains("on-scrollbar") === false) {
+  //     e.target.classList.add("on-scrollbar");
+  //   }
+  // }
+  // window.addEventListener("scroll", handleScroll, true);
 
   return (
     <section className="projects" id="projects">
@@ -90,18 +90,13 @@ export const Projects = () => {
                 through code, composition, and design.{" "}
                 <yellowtext>
                   {" "}
-                  Be sure to read through the instructions tab{" "}
-                </yellowtext>{" "}
-                as some projects have a few hidden details.{" "}
-                <yellowtext>
-                  {" "}
                   Hover for details and click the arrow below the description to
                   visit the site.{" "}
                 </yellowtext>
-                All projects are <yellowtext>
-                  fully responsive.{" "}
-                </yellowtext>{" "}
-                <br />
+                Be sure to
+                <yellowtext> read through the Instructions tab </yellowtext> as
+                some projects have a few hidden details. All projects are{" "}
+                <yellowtext>fully responsive. </yellowtext> <br />
                 <smalltext> **Optimized for Chrome** </smalltext>
               </p>
               <Tab.Container id="projects-tabs" defaultActiveKey="first">

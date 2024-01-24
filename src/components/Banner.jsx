@@ -56,7 +56,7 @@ export const Banner = () => {
         <Row className="align-items-center">
           <Col xs={12} md={6} xl={7}>
             <div>
-              <span className="tagline">Welcome to my Space</span>
+              <span className="tagline">Welcome to my space</span>
               <h1>
                 {`Hi! I'm Victor,`}{" "}
                 <span
@@ -68,12 +68,12 @@ export const Banner = () => {
                 </span>
               </h1>
               <p>
-                <yellowtext> I'm Victor Oloyede, </yellowtext> A hard-working
-                and self-sufficient learner, actively bridging the gap between
-                Development, Design, and Creativity. My creative philosophy is{" "}
-                <yellowtext> Beautiful, yet Practical </yellowtext>and I like to
-                exhibit this as I influence the people around me, while I draw
-                inspiration from them. Have a look through my{" "}
+                I'm <yellowtext> Victor Oloyede, </yellowtext> a hard-working
+                and independent achiever, actively connecting aspects of Design,
+                Development, and Creativity. My creative philosophy is{" "}
+                <yellowtext> "Beautiful yet Practical", </yellowtext>and I like
+                to exhibit this as I influence the people around me, while I
+                draw inspiration from them. Have a look through my{" "}
                 <yellowtext> Fully Responsive </yellowtext> portfolio and find
                 that my work speaks for itself!
               </p>
