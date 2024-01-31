@@ -42,7 +42,7 @@ export const Projects = () => {
       title: "Netflix Clone",
       description: "Front-End Netflix clone with Back-End Implementation",
       imgUrl: projImg2,
-      link: "https://netflix-clone-kappa-sooty.vercel.app/",
+      link: "https://netflixreactv2.vercel.app/signup",
     },
     {
       title: "Shapes and Themes",
