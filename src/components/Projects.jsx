@@ -135,21 +135,23 @@ export const Projects = () => {
                       <div>
                         <h2>Netflix Clone:</h2>
                         <p>
-                          Upon first visit,{" "}
+                          Upon first visit, you will be prompted to sign up.
                           <yellowtext>
                             {" "}
-                            you will be prompted to sign in. Use email and
-                            create a password and click Sign up now. Firebase
-                            authenticaton will save your information so you can
-                            sign in whenever you want.{" "}
+                            Use email and create a password, then click "Sign
+                            Up". Firebase authenticaton will save your
+                            information so you can sign in whenever you want.{" "}
                           </yellowtext>{" "}
                           Titles gathered from a movie database api will show
-                          thumbnails;{" "}
+                          thumbnails.{" "}
                           <yellowtext>
                             {" "}
-                            click any thumbnail to view trailer.
+                            Hover over a movie and click the heart to save it to
+                            your account; they can be seen by clicking the
+                            "Account" button in the top right.
                           </yellowtext>{" "}
-                          Click smiley face in top right corner to sign out.
+                          Remove from your account by hovering a movie and
+                          clicking the (x).
                         </p>
                       </div>
                       <div>
