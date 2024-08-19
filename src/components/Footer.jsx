@@ -28,7 +28,7 @@ export const Footer = () => {
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
               <a
-                href="https://github.com/DexterMcgee"
+                href="https://github.com/VictorOloy"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -45,10 +45,10 @@ export const Footer = () => {
               </a>
             </div>
             <p>
-              <foottext>
+              {/* <foottext>
                 Name may appear different on github and email. This is to
                 protect online identity.
-              </foottext>
+              </foottext> */}
             </p>
           </Col>
         </Row>
